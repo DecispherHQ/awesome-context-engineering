@@ -1,0 +1,43 @@
+# GitHub Pages / Jekyll configuration
+# NOTE: if you publish under a different account/org than DecispherHQ,
+# update `url` below so canonical URLs and the sitemap are correct.
+title: Awesome Context Engineering
+description: >-
+  A curated list of tools, papers, benchmarks, and guides for context
+  engineering: getting an AI agent the right information, at the right time,
+  from the right source.
+url: "https://decispherhq.github.io"
+baseurl: "/awesome-context-engineering"
+lang: en
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+
+# Keep the site header nav clean: just the guides hub.
+header_pages:
+  - guides/index.md
+
+# Render README.md as the site homepage.
+readme_index:
+  enabled: true
+
+relative_links:
+  enabled: true
+  collections: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Don't ship repo-meta files to the rendered site.
+exclude:
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
