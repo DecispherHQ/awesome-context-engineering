@@ -115,7 +115,7 @@ The tools that actually consume the context this list is about. Listed neutrally
 - [Cursor](https://cursor.com/) - AI-first code editor (closed source).
 - [Windsurf](https://windsurf.com/) - AI-first code editor and agent (closed source).
 - [GitHub Copilot](https://github.com/features/copilot) - IDE-integrated coding assistant and agent.
-- [Cody](https://github.com/sourcegraph/cody) - Sourcegraph's AI coding assistant, built on top of code-graph context.
+- [Amp](https://ampcode.com/) - Sourcegraph's agentic coding tool (closed source), successor to Cody, built on top of code-graph context.
 - [Continue](https://github.com/continuedev/continue) - Open-source AI code assistant you can point at your own models and context sources.
 - [Aider](https://github.com/Aider-AI/aider) - Open-source AI pair programming in the terminal, git-native.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous software development agents.
