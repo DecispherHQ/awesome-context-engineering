@@ -80,6 +80,7 @@ Long-form practical guides maintained in this repo ([browse all](guides/index.md
 - [Zep](https://github.com/getzep/zep) - Memory service for AI agents built on a temporal knowledge graph.
 - [Graphiti](https://github.com/getzep/graphiti) - The open-source temporal knowledge graph engine underneath Zep; tracks how facts change over time rather than treating memory as a static store.
 - [Letta](https://github.com/letta-ai/letta) - Stateful agents framework with memory and context management; the project formerly known as MemGPT.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available computer-history memory that captures screen text and audio locally and exposes retrieval to AI assistants through MCP and a local API, under the Screenpipe Commercial License.
 - [supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine that extracts facts, tracks updates, and resolves contradictions across connected sources.
 - [cognee](https://github.com/topoteretes/cognee) - Memory framework that builds a knowledge graph from unstructured data for agent recall.
 
