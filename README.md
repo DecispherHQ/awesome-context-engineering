@@ -82,6 +82,7 @@ Long-form practical guides maintained in this repo ([browse all](guides/index.md
 - [Letta](https://github.com/letta-ai/letta) - Stateful agents framework with memory and context management; the project formerly known as MemGPT.
 - [supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine that extracts facts, tracks updates, and resolves contradictions across connected sources.
 - [cognee](https://github.com/topoteretes/cognee) - Memory framework that builds a knowledge graph from unstructured data for agent recall.
+- [Zortex](https://zortex.me/en/install) - Synchronizes supported app records to an encrypted local store for source-linked retrieval by AI agents.
 
 ## Knowledge Graphs
 
